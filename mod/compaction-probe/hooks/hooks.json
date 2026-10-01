@@ -1,0 +1,6 @@
+{
+  "description": "Hooks session.compact to place a claim in one of three positions (inside the summary, an adjacent user turn, an adjacent assistant turn) or none, read from COMPACTION_PROBE_* variables; reports what it did over $.ui so every run has an audit line",
+  "modules": [
+    "./register.ts"
+  ]
+}

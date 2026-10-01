@@ -1,0 +1,8 @@
+{
+  "name": "compaction-probe",
+  "version": "0.1.0",
+  "description": "Research instrument: places a claim either inside the compaction summary or in an adjacent turn, so the two can be compared with everything else held constant. Injects nothing unless COMPACTION_PROBE_PAYLOAD is set.",
+  "author": {
+    "name": "Nicole"
+  }
+}
